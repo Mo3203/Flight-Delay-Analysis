@@ -22,11 +22,11 @@ Flight delays cost billions annually. This project analyzes a year-long dataset 
 ## Hexbin Regression : 
 <img width="468" height="410" alt="image" src="https://github.com/user-attachments/assets/24c5b2a2-9c57-4676-b8f7-8c7f5ab8e4cb" />
 
-## before mapping : 
+## before mapping translation: 
 <img width="468" height="267" alt="image" src="https://github.com/user-attachments/assets/e7a82025-82af-446c-b312-75a807d73d85" />
 
 
-## after mapping (IATA standardization) : 
+## after mapping translation (IATA standardization) : 
 <img width="468" height="311" alt="image" src="https://github.com/user-attachments/assets/273f6442-2f92-49be-9418-5a9c52ebabf6" />
 
 ##  Statistical Methods Used
