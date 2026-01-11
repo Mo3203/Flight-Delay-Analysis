@@ -26,7 +26,7 @@ Flight delays cost billions annually. This project analyzes a year-long dataset 
 <img width="468" height="267" alt="image" src="https://github.com/user-attachments/assets/e7a82025-82af-446c-b312-75a807d73d85" />
 
 
-## after mapping : 
+## after mapping (IATA standardization) : 
 <img width="468" height="311" alt="image" src="https://github.com/user-attachments/assets/273f6442-2f92-49be-9418-5a9c52ebabf6" />
 
 ##  Statistical Methods Used
